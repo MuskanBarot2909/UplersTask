@@ -1,0 +1,15 @@
+/* CenterADiv.module.scss */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: lightblue;
+  }
+  
+  .centered {
+    text-align: center;
+  }
+  
